@@ -134,7 +134,6 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-
 ![alt text](2024-03-22.png)
 
 ## RESULT
