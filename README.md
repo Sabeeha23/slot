@@ -34,6 +34,7 @@ Execute the program using runserver command.
 <img src="/static/logo.png"height="100"width="540">
 </center>
 <br>
+<center>
 <table align="centre" border="6" bgcolor="Lavender" cellspacing="10" cellpadding="10">
 <caption> SLOT TIME TABLE - Sabeeha Shaik (212223230176) </caption>
 
@@ -88,7 +89,10 @@ Execute the program using runserver command.
 </tr>
 </tr>
 </table>
+</center>
+
 <br>
+<center>
 <table border="7" cellspacing="10" cellpadding="10">
 <tr align="center">
 <th> S.NO. </th>
@@ -98,7 +102,7 @@ Execute the program using runserver command.
 <tr align="center">
 <td> 1. </td>
 <td> 19AI414 </td>
-<td> Web Applicaton </td>
+<td> Fundamental Applications of Web Applicaton </td>
 </tr>
 <tr align="center">
 <td> 2. </td>
@@ -108,28 +112,30 @@ Execute the program using runserver command.
 <tr align="center">
 <td> 3. </td>
 <td> 19MA211 </td>
-<td> Statistics </td>
+<td> Statistics and Numeric Methods </td>
 </tr>
 <tr align="center">
 <td> 4. </td>
 <td> 19MA222 </td>
-<td> Probability </td>
+<td> Probability and Queueing Models </td>
 </tr>
 <tr align="center">
 <td> 5. </td>
 <td> 19PH214 </td>
-<td> Physics </td>
+<td> Physics for Quantum Computing</td>
 </tr>
 <tr align="center">
 <td> 6. </td>
 <td> 19AI304 </td>
-<td> C Programming </td>
+<td> Fundamentals of C Programming </td>
 </tr>
+</center>
 </html>
 ```
 
 ## OUTPUT
-![alt text](2024-03-21.png)
+
+![alt text](2024-03-22.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
